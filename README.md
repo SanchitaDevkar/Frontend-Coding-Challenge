@@ -2,7 +2,7 @@
 # 📚 Book Hub – Book Management App (Angular + Spring Boot + JWT)
 
 Book Hub is a full-stack Book Management System built using Angular(frontend) and Spring Boot (backend) with JWT authentication. It allows users to login, register, and manage a list of books (CRUD operations).
-
+Project PPT:https://docs.google.com/presentation/d/1R_9Wm3Bts3WAn1ZuXCjyZ4euz-G0PRtX/edit?usp=sharing&ouid=114043774088667102663&rtpof=true&sd=true
 ---
 
 ## 🌐 Live Demo
@@ -175,5 +175,5 @@ Available APIs:
 ## 👩‍💻 Author
 
 Sanchita Devkar
-💼 Full Stack Developer
+💼 Full Stack Developer   
 
