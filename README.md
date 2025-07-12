@@ -85,60 +85,36 @@ src/app
 
 ### 🛠 Backend Setup
 1. Clone the backend:
-   ```bash
    git clone https://github.com/SanchitaDevkar/Backend-BookHub.git
    cd Backend-BookHub
-````
 
 2. Configure MySQL in `application.properties`:
 
-   ```
    spring.datasource.url=jdbc:mysql://localhost:3306/bookhub
    spring.datasource.username=root
    spring.datasource.password=yourpassword
-   ```
 
 3. Run the backend server:
-
-   ```bash
    mvn spring-boot:run
-   ```
+
 
 4. Open Swagger UI to test:
-
-   ```
    http://localhost:8081/swagger-ui/index.html
-   ```
-
----
 
 ### 💻 Frontend Setup
 
 1. Clone the frontend:
-
-   ```bash
    git clone https://github.com/SanchitaDevkar/Frontend-Coding-Challenge.git
    cd Frontend-Coding-Challenge
-   ```
 
 2. Install dependencies:
-
-   ```bash
    npm install
-   ```
 
 3. Start the Angular app:
-
-   ```bash
    ng serve
-   ```
-
-4. Open in browser:
-
-   ```
+   
+5. Open in browser:
    http://localhost:4200
-   ```
-
 ---
 
 ## 🔐 JWT Auth Flow
